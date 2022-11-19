@@ -1,7 +1,7 @@
 # Insurance Premium Prediction
 
 ## Problem Statement :
-We analyse the personal health data to predict insurance premium of individuals. Six regression models naming Linear Regression, Decision Tree Regression, Random Forest Regression, Support Vector Regression, K-Nearest Neighbors Regression, Gradient Boosting have been used to compare and contrast the performance of these algorithms.
+We analyse the personal health data to predict insurance premium of individuals. Four regression models naming Linear Regression, Ridge Regression, Support Vector Regression and Gradient Boosting Regression have been used to compare and contrast the performance of these algorithms.
 
 ## Dataset :
 The dataset is taken from a Kaggle. You can download the dataset from [here](https://www.kaggle.com/datasets/mirichoi0218/insurance)
